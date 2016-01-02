@@ -23,8 +23,8 @@
   <project path="device/generic/x86_64" name="android_device_generic_x86_64" groups="pdk" remote="x86" revision="marshmallow-x86" />
   <project path="external/alsa-lib" name="android_platform_external_alsa-lib" remote="x86" revision="marshmallow-x86" />
   <project path="external/alsa-utils" name="android_platform_external_alsa-utils" remote="x86" revision="marshmallow-x86" />
-  <project path="external/bluetooth/bluez" name="android_platform_external_bluetooth/bluez" remote="x86" revision="marshmallow-x86" />
-  <project path="external/bluetooth/glib" name="android_platform_external_bluetooth/glib" remote="x86" revision="marshmallow-x86" />
+  <project path="external/bluetooth/bluez" name="android_platform_external_bluetooth_bluez" remote="x86" revision="marshmallow-x86" />
+  <project path="external/bluetooth/glib" name="android_platform_external_bluetooth_glib" remote="x86" revision="marshmallow-x86" />
   <project path="external/bluetooth/sbc" name="android_platform_external_bluetooth_sbc" remote="x86" revision="marshmallow-x86" />
   <project path="external/busybox" name="android_platform_external_busybox" remote="x86" revision="marshmallow-x86" />
   <project path="external/drm_gralloc" name="android_platform_external_drm_gralloc" groups="drm_gralloc" remote="x86" revision="marshmallow-x86" />
